@@ -1,4 +1,4 @@
-# 💻 Pakistan Laptop Price Predictor
+# 💻Second hand Laptop Price Predictor in Pakistan
 
 A machine learning web application that predicts the price of used laptops in Pakistan.
 
